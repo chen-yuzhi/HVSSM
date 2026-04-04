@@ -1,8 +1,8 @@
 # H-VSSM: A Hilbert-Driven Context-Shunting Framework for Robust Structural Defect Detection
 
-[![Paper](https://img.shields.io/badge/Paper-ICME2026-blue)](https://github.com/chenyuzhi/HVSSM)
+[![Paper](https://img.shields.io/badge/Paper-ICME2026-blue)](https://github.com/chen-yuzhi/HVSSM)
 [![Framework](https://img.shields.io/badge/PyTorch-2.1-red)](https://pytorch.org/)
-[![SOTA](https://img.shields.io/badge/SOTA-DeepCrack-green)](https://github.com/chenyuzhi/HVSSM)
+[![SOTA](https://img.shields.io/badge/SOTA-DeepCrack-green)](https://github.com/chen-yuzhi/HVSSM)
 
 This is the official implementation of the paper: **"H-VSSM: A Hilbert-Driven Context-Shunting Framework for Robust Structural Defect Detection"**, accepted by **ICME 2026**.
 
@@ -44,7 +44,7 @@ H-VSSM 在多个基准数据集上显著优于之前的 SOTA 方法。
 
 ## 🚀 Getting Started | 快速入门
 
-### 1. Requirements | 环境配置
+### Requirements | 环境配置
 * Ubuntu 22.04
 * Python 3.10
 * PyTorch 2.1+
